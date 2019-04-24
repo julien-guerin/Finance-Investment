@@ -1,4 +1,4 @@
-# NASDAQ Sharpe Ratio
+# Sharpe Ratio
 
 
 The Sharpe Ratio is an indicator developped by William Sharpe (a Nobel Price in Economic Sciences). It aims to answer the question : can we attain a performance superior to a risk-free investment, and can we do it at a lesser risk ?
